@@ -1,4 +1,4 @@
-//Criar função que reordena um nome e retorna um novo nome maior que o anterior, conforme ordem alfabética. O novo nome deverá ser o menor próximo possível.
+//Desafio 09: Criar função que reordena um nome e retorna um novo nome maior que o anterior, conforme ordem alfabética. O novo nome deverá ser o menor próximo possível.
 
 import java.util.ArrayList;
 import java.util.Collections;
