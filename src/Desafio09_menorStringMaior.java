@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Q09 {
+public class Desafio09_menorStringMaior {
 
     public static void main(String[] args) {
         System.out.println(menorStringMaior("abcde"));

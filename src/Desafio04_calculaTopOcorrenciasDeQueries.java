@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Q04 {
+public class Desafio04_calculaTopOcorrenciasDeQueries {
     public static void main(String[] args) {
         System.out.println(calculaTopOcorrenciasDeQueries("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",Arrays.asList("a","em","i","el"),2));
     }

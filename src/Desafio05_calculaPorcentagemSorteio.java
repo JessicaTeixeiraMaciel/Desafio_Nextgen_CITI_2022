@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Q05 {
+public class Desafio05_calculaPorcentagemSorteio {
 
     public static void main(String[] args) {
         System.out.println(calculaPorcentagemSorteio(Arrays.asList(true,false),Arrays.asList(60,60)));

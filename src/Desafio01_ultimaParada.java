@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Q01 {
+public class Desafio01_ultimaParada {
     public static void main(String[] args) {
 
         System.out.println(ultimaParada(2,8,Arrays.asList(2,15,22,1)));

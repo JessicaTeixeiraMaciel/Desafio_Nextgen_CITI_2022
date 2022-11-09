@@ -1,6 +1,6 @@
 //Desafio 08: Criar função que retorna qual a melhor empresa de taxi para escolher, conforme valores das taxas fixas, valor por km rodado e distância a ser percorrida.
 
-public class Q08{
+public class Desafio08_escolheTaxi {
 
     public static void main(String[] args) {
         System.out.println(escolheTaxi("5.0","0.75","2.5","1.0"));

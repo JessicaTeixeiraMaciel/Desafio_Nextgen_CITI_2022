@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.*;
 
-public class Q02 {
+public class Desafio02_retornaMenorEMaiorValorDeVendas {
     public static void main(String[] args) {
         System.out.println(retornaMenorEMaiorValorDeVendas(Arrays.asList(Arrays.asList(200,100),Arrays.asList(300))));
     }

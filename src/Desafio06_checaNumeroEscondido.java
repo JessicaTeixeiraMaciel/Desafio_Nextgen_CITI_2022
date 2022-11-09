@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Q06 {
+public class Desafio06_checaNumeroEscondido {
 
     public static void main(String[] args) {
         System.out.println(checaNumeroEscondido(12345, 235));

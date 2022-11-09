@@ -1,6 +1,6 @@
 //Desafio 07: Criar função que retorna o número de leds de um painel, sendo que os paineis sao formados por quadrados de 1x1 cm e há um led em cada extremidade do quadrado.
 
-public class Q07 {
+public class Desafio07_calculaTotalLeds {
 
     public static void main(String[] args) {
         System.out.println(calculaTotalLeds(2,3));
